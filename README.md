@@ -1,4 +1,12 @@
-### Hi there, I'm Rishabh 👋
+<h3 align="center">
+Hi there 👋, I'm
+Rishabh</a>
+</h3>
+
+<p align="center">
+<img src="https://github.com/iamrishabh07/iamrishabh07/blob/master/assets/hi.gif" width="400" />
+</p>
+
 
 ## I'm a student!
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -24,5 +32,9 @@
 [reddit]: https://www.reddit.com/user/iamRishabh05/
 [gitlab]: https://gitlab.com/iamRishabh07
 [github]: https://github.com/iamrishabh07
+
+
+
+
 
 
