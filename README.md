@@ -17,7 +17,6 @@
 
 ---
 
-<img align="left" alt="iamrishabh07's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamrishabh07&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/iamrishabh07
