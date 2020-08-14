@@ -10,7 +10,6 @@ Rishabh</a>
 
 ## I'm a student!
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Football
 
 ### Connect with me:
 
